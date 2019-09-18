@@ -1,3 +1,5 @@
+# Hello Shonna! This is Zoe.
+
 # texture
 
 A configurable jekyll theme for simply beautiful blogs.
